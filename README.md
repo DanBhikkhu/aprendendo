@@ -1,2 +1,3 @@
-# aprendendo
-Curso Git
+# Curso Digital: Git/Versionamento
+
+## Salvando modificações no repositório
